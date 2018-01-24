@@ -33,7 +33,9 @@
     "uniqCompNum": 29,
     "versionPublish": "4.5.4",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
