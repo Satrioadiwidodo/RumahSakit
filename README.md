@@ -1,0 +1,2 @@
+# RumahSakit
+GitHub Pages
